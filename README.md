@@ -1,10 +1,8 @@
-' This website is designed to highlight the portfolio, services, and digital presence of Kazi Ashrafuzzaman.
-It provides information about professional skills, projects, and ways to get in touch '
 
 
 ## 👁️ Live Preview
 
-Check out the website live: [https://yourwebsite.com](https://yourwebsite.com)
+Check out the website live: [Check](https://kazi.ct.ws/)
 
 
 <i><b># Follow Me</b></i> <br>
