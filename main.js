@@ -88,7 +88,7 @@ cards.forEach(card => {
 });
 
 const typingElement = document.querySelector('.info-home h3'); 
-const words = ["Frontend Developer", "UI/UX Designer", "Web Enthusiast", "React Developer"];
+const words = ["Frontend Developer", "Cybersecurity Expert", "Web Enthusiast", "Bug Hunter"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }, delay);
   }
 
-  showElement(loadingText, 0);          
+  showElement(loadingText,c 0);          
   showElement(mainIcon, 800);         
   subIcons.forEach((icon, idx) => {
     showElement(icon, 1600 + idx*400);  
@@ -145,3 +145,4 @@ document.addEventListener("DOMContentLoaded", () => {
     mainPage.classList.add("visible");
   }, 4000);
 });
+
